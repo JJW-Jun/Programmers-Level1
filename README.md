@@ -1,8 +1,17 @@
 #### Programmers Level1 ####
 
-# http : https://programmers.co.kr/
+# http : https://programmers.co.kr
+
+programmers의 문제풀이 및 코드를 정리. 필요한 문제, 풀이는 ctrl + f로 찾으시면 됩니다.  
+
+
+
+
+
+------------------------------------------------------------------------------------------
 
 # Lv1
+
 
 2016년
 
