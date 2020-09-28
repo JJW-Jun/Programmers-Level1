@@ -1,7 +1,5 @@
 # Programmers
 
-- - - - -
-
 http : https://programmers.co.kr
 
 Programmers의 문제풀이 및 코드를 정리한 문서입니다. 필요한 문제, 풀이는 ctrl + f로 찾으시면 됩니다.
